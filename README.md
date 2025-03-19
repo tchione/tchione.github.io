@@ -4,6 +4,6 @@
 
 ```
 npm install -g gh-pages
-npm run build
-gh-pages -d dist
+npm run docs:build
+gh-pages -d src/.vuepress/dist
 ```

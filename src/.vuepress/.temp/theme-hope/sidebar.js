@@ -1,0 +1,1 @@
+export const sidebarData = {"/demo/":["markdown","page"],"/article/":["cherry",{"text":"Apple","prefix":"apple/","collapsible":true,"children":["1"]},{"text":"Banana","prefix":"banana/","collapsible":true,"children":["1"]}]};
