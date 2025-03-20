@@ -1,0 +1,16 @@
+import comp from "D:/T_c/blog_chione/blog_chione/src/.vuepress/.temp/pages/article/code/(转)Docker完美部署Django Uwsgi_Nginx_MySQL_Redis.html.vue"
+const data = JSON.parse("{\"path\":\"/article/code/(%E8%BD%AC)Docker%E5%AE%8C%E7%BE%8E%E9%83%A8%E7%BD%B2Django%20Uwsgi_Nginx_MySQL_Redis.html\",\"title\":\"(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis\",\"lang\":\"zh-CN\",\"frontmatter\":{\"icon\":\"pen-to-square\",\"date\":\"2025-03-20T00:00:00.000Z\",\"category\":[\"技术\"],\"tag\":[\"转载\",\"Python\",\"后端\",\"Django\"],\"description\":\"(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis PS原地址:https://zhuanlan.zhihu.com/p/145364353 什么是docker-compose及docker-compose工具的安装 Docker-compose是一个用来定义和运行复杂应用的 Docker 工具。使用 docker-...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://mister-hope.github.io/article/code/(%E8%BD%AC)Docker%E5%AE%8C%E7%BE%8E%E9%83%A8%E7%BD%B2Django%20Uwsgi_Nginx_MySQL_Redis.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"博客演示\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis PS原地址:https://zhuanlan.zhihu.com/p/145364353 什么是docker-compose及docker-compose工具的安装 Docker-compose是一个用来定义和运行复杂应用的 Docker 工具。使用 docker-...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"转载\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"Python\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"后端\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"Django\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2025-03-20T00:00:00.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis\\\",\\\"image\\\":[\\\"\\\"],\\\"datePublished\\\":\\\"2025-03-20T00:00:00.000Z\\\",\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Chione\\\",\\\"url\\\":\\\"https://chione.github.io\\\"}]}\"]]},\"readingTime\":{\"minutes\":9.98,\"words\":2994},\"filePathRelative\":\"article/code/(转)Docker完美部署Django Uwsgi+Nginx+MySQL+Redis.md\",\"localizedDate\":\"2025年3月20日\",\"excerpt\":\"\\n<p><strong>PS原地址:<a href=\\\"https://zhuanlan.zhihu.com/p/145364353\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">https://zhuanlan.zhihu.com/p/145364353</a></strong></p>\\n<h3>什么是docker-compose及docker-compose工具的安装</h3>\\n<ul>\\n<li>\\n<p>Docker-compose是一个用来定义和运行复杂应用的 Docker 工具。使用 docker-compose 后不再需要使用 shell 脚本来逐一创建和启动容器，还可以通过 docker-compose.yml 文件构建和管理复杂多容器组合。</p>\\n</li>\\n<li>\\n<p>Docker-compose的下载和安装很简单，网上有很多教程，我就不再详述了。这里只记录下ubuntu系统下docker-compose的安装过程。</p>\\n</li>\\n</ul>\",\"autoDesc\":true}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
