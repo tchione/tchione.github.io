@@ -11,9 +11,9 @@ export default hopeTheme({
     url: "https://chione.github.io",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://wx.qlogo.cn/mmopen/wUMkKwX51zozF5a7L3qHHSYwQdrCvSlhqNLnv3NFo6hQ3H6gqYXLOFibb5n9KQlQBdhfJKICCcBJcdJOXn9eSjC8OQ9nBJmDQ/132",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -29,7 +29,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "希望可以不断前进的开发者",
+    description: "持续集成的开发者",
     intro: "/intro.html",
     medias: {
       BiliBili: "https://space.bilibili.com/20161960",
